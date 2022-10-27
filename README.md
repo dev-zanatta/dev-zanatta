@@ -1,5 +1,5 @@
 <div align="center">
-### Ola 👋, eu sou o Gustavo
+Ola 👋, eu sou o Gustavo
 </div>
 
 <div align="center">
@@ -8,4 +8,5 @@
        alt="snake" /></a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zanatta)](https://github.com/dev-zanatta/github-readme-stats)
 
