@@ -9,5 +9,10 @@ Ola 👋, eu sou o Gustavo
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zanatta)](https://github.com/dev-zanatta/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-zanatta1&theme=dark)](https://git.io/streak-stats)
 
+
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></img>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>  
+  
