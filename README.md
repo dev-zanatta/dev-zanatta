@@ -9,4 +9,5 @@ Ola 👋, eu sou o Gustavo
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zanatta)](https://github.com/dev-zanatta/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-zanatta1&theme=dark)](https://git.io/streak-stats)
 
