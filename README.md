@@ -6,7 +6,6 @@ Ola 👋, eu sou o Gustavo
 <br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zanatta)](https://github.com/dev-zanatta/github-readme-stats)
 
   <div style="display:flex">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
