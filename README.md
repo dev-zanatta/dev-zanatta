@@ -12,7 +12,7 @@
 ### Full Stack Developer · SaaS Builder · Open to International Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gzanatta)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavofzanatta@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zanattagg@gmail.com)
 [![Brazil](https://img.shields.io/badge/Toledo%2C_PR-Brazil-009C3B?style=for-the-badge)](https://maps.app.goo.gl/Toledo-PR)
 
 </div>
